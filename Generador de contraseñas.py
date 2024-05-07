@@ -1,4 +1,4 @@
-''' Generador de contraseñas '''
+""" Generador de contraseñas """
 
 import string
 import random
