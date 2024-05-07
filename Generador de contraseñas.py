@@ -1,3 +1,5 @@
+''' Generador de contraseñas '''
+
 import string
 import random
 
