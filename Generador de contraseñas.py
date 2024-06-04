@@ -1,4 +1,4 @@
-""" Generador de contraseñas aleatorias """
+""" Random Password Generator"""
 
 import string
 import random
